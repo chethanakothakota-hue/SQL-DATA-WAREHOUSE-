@@ -243,7 +243,7 @@ Through this project, I gained hands-on experience in:
 
 #  Author
 
-kkothakota chethana
+kothakota chethana
 
 Aspiring Data Engineer | SQL Developer | Data Analyst
 
